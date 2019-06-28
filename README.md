@@ -5,3 +5,16 @@
 
 ### บทความ
 - [การออกแบบระบบให้รับ Request เยอะๆ](http://www.notaboutcode.com/post/22-design-to-scale)
+- [EN Learn lookahead regular expression by testing a strong password pattern](https://www.codesanook.com/learn-lookahead-regular-expression-by-testing-a-strong-password-pattern)
+
+### เครื่องมือ
+- [Postman](https://www.getpostman.com/downloads/)
+- [Swagger](http://editor.swagger.io/)
+- [JasperReports](https://community.jaspersoft.com/project/jasperreports-library)
+
+### อุปกรณ์
+- [Mini PC LattePanda V1.0 4GB/64GB ไว้ทำเซิฟเวอร์ทดสอบได้](https://www.dfrobot.com/product-1404.html)
+
+### Tutorial
+- [Learn Azure](https://docs.microsoft.com/en-us/learn/)
+- [Self paced Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
