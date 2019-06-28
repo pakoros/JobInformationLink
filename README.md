@@ -11,6 +11,10 @@
 - [Postman](https://www.getpostman.com/downloads/)
 - [Swagger](http://editor.swagger.io/)
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library)
+- [Serveo บริการ Reverse Proxy](https://serveo.net/)
+- [ngrok บริการ Reverse Proxy](https://ngrok.com/)
+
+*reverse proxy ไว้ทำให้ localhost เป็น public ได้
 
 ### อุปกรณ์
 - [Mini PC LattePanda V1.0 4GB/64GB ไว้ทำเซิฟเวอร์ทดสอบได้](https://www.dfrobot.com/product-1404.html)
