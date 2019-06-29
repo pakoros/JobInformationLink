@@ -22,3 +22,6 @@
 ### Tutorial
 - [Learn Azure](https://docs.microsoft.com/en-us/learn/)
 - [Self paced Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
+
+### รวม
+- [รวม Dark Web Links](http://blackhack474.com/2019/06/02/dark-web-links-เพื่อเข้าถึงตลาด-darknet-deepweb)
