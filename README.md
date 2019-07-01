@@ -13,6 +13,7 @@
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library)
 - [Serveo บริการ Reverse Proxy](https://serveo.net/)
 - [ngrok บริการ Reverse Proxy](https://ngrok.com/)
+- [Remote https://anydesk.com](https://anydesk.com)
 
 *reverse proxy ไว้ทำให้ localhost เป็น public ได้
 
