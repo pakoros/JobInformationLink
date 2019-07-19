@@ -44,3 +44,6 @@
 
 ### ตัวอย่าง
 - [.net Core 2 With Active Directory Githup](https://github.com/WinLwinOoNet/AspNetCoreActiveDirectoryStarterKit)
+- [Change password in asp.net core 2.x](https://stackoverflow.com/questions/51647513/change-password-in-asp-net-core-2-x)
+- [Use Active Directory in Asp.net Core](https://stackoverflow.com/questions/53707820/how-to-use-active-directory-authentication-in-asp-net-core)
+- [Active Directory Ahtuentication](https://gist.github.com/JaimeStill/539af65518091f7b8e6b9e003a493baa)
