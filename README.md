@@ -41,3 +41,6 @@
 - [global log](https://stackoverflow.com/questions/54221890/best-practice-for-logging-net-core-application)
 - [Nlog config options](https://nlog-project.org/config/?tab=layout-renderers)
 - [Nlog starter](https://github.com/NLog/NLog/wiki/Getting-started-with-ASP.NET-Core-2)
+
+### ตัวอย่าง
+- [.net Core 2 With Active Directory Githup](https://github.com/WinLwinOoNet/AspNetCoreActiveDirectoryStarterKit)
