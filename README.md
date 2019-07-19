@@ -36,3 +36,8 @@
 - [รวม Dark Web Links](http://blackhack474.com/2019/06/02/dark-web-links-เพื่อเข้าถึงตลาด-darknet-deepweb)
 - [Webframe รวม UI web](https://webframe.xyz/)
 - [ตัวอย่าง Chart จาก Steam](https://store.steampowered.com/hwsurvey/)
+
+### Nlog
+- [global log](https://stackoverflow.com/questions/54221890/best-practice-for-logging-net-core-application)
+- [Nlog config options](https://nlog-project.org/config/?tab=layout-renderers)
+- [Nlog starter](https://github.com/NLog/NLog/wiki/Getting-started-with-ASP.NET-Core-2)
