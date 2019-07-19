@@ -48,3 +48,9 @@
 - [Change password in asp.net core 2.x](https://stackoverflow.com/questions/51647513/change-password-in-asp-net-core-2-x)
 - [Use Active Directory in Asp.net Core](https://stackoverflow.com/questions/53707820/how-to-use-active-directory-authentication-in-asp-net-core)
 - [Active Directory Ahtuentication](https://gist.github.com/JaimeStill/539af65518091f7b8e6b9e003a493baa)
+
+### อื่น ๆ
+- [สร้างแอพที่รับผู้ใช้ 10 ล้านคน เขาทำกันยังไง?](https://www.youtube.com/watch?v=14eUjJ6FyZY&list=WL&index=47&t=3s)
+- [Zanroo Tech Talk: EP1. Microservices design pattern รู้ไว้ก่อนออกแบบ](https://www.youtube.com/watch?v=E3Hs86Q0Svc)
+- [ว่าด้วยเรื่อง Microservices Anti-pattern ที่น่าสนใจ](http://www.somkiat.cc/microservices-anti-pattern/)
+- [ว่าด้วยเรื่องของ Microservices](https://myifew.com/4315/what-is-microservices/)
