@@ -55,3 +55,12 @@
 - [Zanroo Tech Talk: EP1. Microservices design pattern รู้ไว้ก่อนออกแบบ](https://www.youtube.com/watch?v=E3Hs86Q0Svc)
 - [ว่าด้วยเรื่อง Microservices Anti-pattern ที่น่าสนใจ](http://www.somkiat.cc/microservices-anti-pattern/)
 - [ว่าด้วยเรื่องของ Microservices](https://myifew.com/4315/what-is-microservices/)
+
+### deprecating service version
+- [Deprecating a Service Version](https://github.com/microsoft/aspnet-api-versioning/wiki/Deprecating-a-Service-Version)
+- [ASP.NET Core RESTful Web API versioning made easy](https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx)
+
+### microservice
+- [Netflix microservice tech blog](https://medium.com/netflix-techblog/tagged/microservices)
+- [CQRS and Event Sourcing in c# and .NET](https://www.youtube.com/watch?v=Q0Bz-O67_nI&feature=youtu.be)
+- [Introduction to KrakenD](https://medium.com/red-crane/api-gateway-with-krakend-8d42f9acd08a)
