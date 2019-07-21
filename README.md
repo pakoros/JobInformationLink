@@ -14,6 +14,7 @@
 ](https://sites.google.com/site/netcorenote/asp-net-core/authentication/using-identity-in-rc2-1-1/migrate-from-asp-net-4-6-to-net-core-to-avoid-exception-invalid-column-name-normalizedusername)
 - [แชร์ Mock-up ให้กับทีมแบบไม่มีค่าใช้จ่ายด้วย Pencil + Azure](https://medium.com/@pztrinity/แชร์-mock-up-ให้กับทีมแบบไม่มีค่าใช้จ่ายด้วย-pencil-azure-2142ee7d85f8)
 - [สาธิตการติดตั้ง Azure — PaaS สำหรับ การ Migrate ASP.Net Core 2 และ Entity Framework Core](https://medium.com/@pztrinity/สาธิตการติดตั้ง-azure-paas-สำหรับ-การ-migrate-asp-net-core-2-และ-entity-framework-core-6196eaeaefec)
+- [การวนแถวและคอลัมน์ หรือ วนคอลัมน์แล้ววนแถว แบบไหนไวกว่ากัน เพราะอะไร](https://medium.com/@witchayutpepejongpattanasombut/รู้จักและทำให้โค้ดทำงานเร็วขึ้นด้วย-locality-6e84bed7b353)
 
 ### เครื่องมือ
 - [Postman](https://www.getpostman.com/downloads/)
