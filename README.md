@@ -25,6 +25,7 @@
 - [Remote https://anydesk.com](https://anydesk.com)
 - [AD explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 - [Orchard CMS](https://orchardproject.net/)
+- [regex tool online at regex101.com](https://regex101.com/)
 
 *reverse proxy ไว้ทำให้ localhost เป็น public ได้
 
