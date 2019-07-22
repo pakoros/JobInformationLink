@@ -66,3 +66,10 @@
 - [Netflix microservice tech blog](https://medium.com/netflix-techblog/tagged/microservices)
 - [CQRS and Event Sourcing in c# and .NET](https://www.youtube.com/watch?v=Q0Bz-O67_nI&feature=youtu.be)
 - [Introduction to KrakenD](https://medium.com/red-crane/api-gateway-with-krakend-8d42f9acd08a)
+
+### upload / download binary
+- [Convert binary data to a pdf file](https://stackoverflow.com/questions/14111442/convert-binary-data-to-a-pdf-file)
+- [.Net Core Byte array to Image](https://stackoverflow.com/questions/44519553/net-core-byte-array-to-image)
+
+### localDB connecting
+- [connecting localdb using sql server management studio](https://dotnetthoughts.net/connecting-localdb-using-sqlserver-management-studio/)
