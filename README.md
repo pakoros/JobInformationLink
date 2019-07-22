@@ -73,3 +73,6 @@
 
 ### localDB connecting
 - [connecting localdb using sql server management studio](https://dotnetthoughts.net/connecting-localdb-using-sqlserver-management-studio/)
+
+### รวม datathon/ codeathon
+- [ซักฟอกข้อมูล อ่านและสกัดโครงสร้างข้อมูลจากคำตัดสินศาลและคำตัดสิน ปปช.](https://github.com/corrupt0/datathon-court-data-001)
