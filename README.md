@@ -76,3 +76,8 @@
 
 ### รวม datathon/ codeathon
 - [ซักฟอกข้อมูล อ่านและสกัดโครงสร้างข้อมูลจากคำตัดสินศาลและคำตัดสิน ปปช.](https://github.com/corrupt0/datathon-court-data-001)
+
+### machine learning ML.NET
+- [learning ml.net](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
+- [ml.net sample](https://github.com/dotnet/machinelearning-samples)
+- [tutorial](https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/index)
