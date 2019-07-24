@@ -81,3 +81,12 @@
 - [learning ml.net](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
 - [ml.net sample](https://github.com/dotnet/machinelearning-samples)
 - [tutorial](https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/index)
+
+### bootstrap Theme
+- [admin theme](https://athemes.com/collections/free-bootstrap-admin-templates/)
+- [10 Beautifully Designed Free Bootstrap Dashboard Admin Templates](https://1stwebdesigner.com/free-bootstrap-dashboard-templates/)
+
+- [fontawesome bootstrap cheat sheet](https://fontawesome.bootstrapcheatsheets.com/)
+- [https://www.creative-tim.com/bootstrap-cheat-sheet](https://www.creative-tim.com/bootstrap-cheat-sheet)
+- [https://hackerthemes.com/bootstrap-cheatsheet/](https://hackerthemes.com/bootstrap-cheatsheet/)
+- [https://hackerthemes.com/bootstrap-themes/](https://hackerthemes.com/bootstrap-themes/)
