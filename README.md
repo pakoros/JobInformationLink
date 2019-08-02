@@ -96,3 +96,6 @@
 ### elearning
 - [https://tdga.dga.or.th](https://tdga.dga.or.th)
 - [http://ocsc.chulaonline.net/main/MainCourseNew.asp](http://ocsc.chulaonline.net/main/MainCourseNew.asp)
+
+### .net core enum
+- [enum with select taghelper](https://techbrij.com/asp-net-core-mvc-enums-select-taghelper)
