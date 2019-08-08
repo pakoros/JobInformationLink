@@ -99,3 +99,5 @@
 
 ### .net core enum
 - [enum with select taghelper](https://techbrij.com/asp-net-core-mvc-enums-select-taghelper)
+
+- [How to delete locked file with Process Explorer](https://www.windowscentral.com/how-delete-locked-files-windows-10)
