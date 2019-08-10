@@ -4,6 +4,7 @@
 - [ระบบติดตามสำนวนคดี](https://cios.coj.go.th/tracking/index.php)
 
 ### บทความ
+- [แหล่งรวมเอกสารของ Microsoft https://docs.microsoft.com/en-us/](https://docs.microsoft.com/en-us/)
 - [การออกแบบระบบให้รับ Request เยอะๆ](http://www.notaboutcode.com/post/22-design-to-scale)
 - [EN Learn lookahead regular expression by testing a strong password pattern](https://www.codesanook.com/learn-lookahead-regular-expression-by-testing-a-strong-password-pattern)
 - [แนวทางการคิดราคาค่าออกแบบ](https://mennstudio.com/2014/design-price-cost-value/)
