@@ -37,6 +37,7 @@
 - [Learn Azure](https://docs.microsoft.com/en-us/learn/)
 - [Self paced Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
 - [Razor Pages with EF Core in ASP.NET Core - Sort, Filter, Paging](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/sort-filter-page?view=aspnetcore-2.2)
+- [Tutorial: Add sorting, filtering, and paging - ASP.NET MVC with EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/sort-filter-page?view=aspnetcore-2.2)
 
 ### รวม
 - [รวม Dark Web Links](http://blackhack474.com/2019/06/02/dark-web-links-เพื่อเข้าถึงตลาด-darknet-deepweb)
