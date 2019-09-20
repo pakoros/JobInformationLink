@@ -107,3 +107,10 @@
 
 ### css tricks
 - [css for embeb video full width](https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php)
+
+### scss add and edit
+- [how to add bootstrap sass](https://www.dotnetcatch.com/2019/05/16/adding-bootstrap-sass-to-asp-net-core/)
+- [WebCompiler for visual studio](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler)
+- [how to change bootstrap default font](https://stackoverflow.com/questions/24075222/how-can-i-change-the-bootstrap-default-font-family-using-font-from-google)
+- [how to change font size](https://stackoverflow.com/questions/46910998/how-to-change-the-font-size-with-sass-in-bootstrap-4)
+- [how to use libman](https://devblogs.microsoft.com/aspnet/library-manager-client-side-content-manager-for-web-apps/)
