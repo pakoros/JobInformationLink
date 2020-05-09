@@ -46,6 +46,9 @@
 - [รวม Dark Web Links](http://blackhack474.com/2019/06/02/dark-web-links-เพื่อเข้าถึงตลาด-darknet-deepweb)
 - [Webframe รวม UI web](https://webframe.xyz/)
 - [ตัวอย่าง Chart จาก Steam](https://store.steampowered.com/hwsurvey/)
+- [lineIcons](https://lineicons.com/)
+- [Disable memory compression in Windows 10](https://donhk.wordpress.com/2019/08/17/disable-memory-compression-in-windows-10/)
+- [Memory Compression Process: High Memory and CPU Usage in Windows 10](http://woshub.com/memory-compression-process-high-usage-windows-10/)
 
 ### Nlog
 - [global log](https://stackoverflow.com/questions/54221890/best-practice-for-logging-net-core-application)
