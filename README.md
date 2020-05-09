@@ -19,6 +19,9 @@
 
 - [20 Libraries เด็ดๆ ของ .NET Core ที่ควรรู้จักเอาไว้ใช้](https://nextflow.in.th/2019/20-dot-net-core-library-for-dev-thai/)
 - [Design ระบบ Authentication ยังไงให้รองรับทั้ง Desktop, Web, Mobile, Single Page Aplication และ Micro Service](https://www.jittagornp.me/blog/how-to-design-authentication-system/?series=oauth)
+- [100% Disk Usage Issue In Windows 10](https://www.easypcmod.com/100-disk-usage-issue-in-windows-10-10210)
+- [100% disk usage and temperature rise of hard disk](https://answers.microsoft.com/en-us/windows/forum/all/100-disk-usage-and-temperature-rise-of-hard-disk/d4d57f71-3027-4f6f-98e2-19568020a10a)
+- [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows)
 
 ### เครื่องมือ
 - [Postman](https://www.getpostman.com/downloads/)
