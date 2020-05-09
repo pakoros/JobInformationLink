@@ -17,6 +17,9 @@
 - [สาธิตการติดตั้ง Azure — PaaS สำหรับ การ Migrate ASP.Net Core 2 และ Entity Framework Core](https://medium.com/@pztrinity/สาธิตการติดตั้ง-azure-paas-สำหรับ-การ-migrate-asp-net-core-2-และ-entity-framework-core-6196eaeaefec)
 - [การวนแถวและคอลัมน์ หรือ วนคอลัมน์แล้ววนแถว แบบไหนไวกว่ากัน เพราะอะไร](https://medium.com/@witchayutpepejongpattanasombut/รู้จักและทำให้โค้ดทำงานเร็วขึ้นด้วย-locality-6e84bed7b353)
 
+- [20 Libraries เด็ดๆ ของ .NET Core ที่ควรรู้จักเอาไว้ใช้](https://nextflow.in.th/2019/20-dot-net-core-library-for-dev-thai/)
+- [Design ระบบ Authentication ยังไงให้รองรับทั้ง Desktop, Web, Mobile, Single Page Aplication และ Micro Service](https://www.jittagornp.me/blog/how-to-design-authentication-system/?series=oauth)
+
 ### เครื่องมือ
 - [Postman](https://www.getpostman.com/downloads/)
 - [Swagger](http://editor.swagger.io/)
